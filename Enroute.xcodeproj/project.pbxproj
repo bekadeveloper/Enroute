@@ -352,7 +352,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Enroute/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 867N93C454;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Enroute/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -360,7 +360,7 @@
 					"@executable_path/Frameworks",
 				);
 				"OTHER_SWIFT_FLAGS[sdk=*]" = "-DCOREDATA";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.stanford.cs193p.instructor.Enroute;
+				PRODUCT_BUNDLE_IDENTIFIER = bekadeveloper.Enroute;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -373,14 +373,14 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Enroute/Preview Content\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 867N93C454;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = Enroute/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = edu.stanford.cs193p.instructor.Enroute;
+				PRODUCT_BUNDLE_IDENTIFIER = bekadeveloper.Enroute;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
